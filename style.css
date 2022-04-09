@@ -1,0 +1,39 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#game div.blue.flipped {
+  background-color: blue;
+  }
+#game div.green.flipped {
+  background-color: green;
+  }
+#game div.orange.flipped {
+  background-color: orange;
+  }
+#game div.purple.flipped {
+  background-color: purple;
+  }
+#game div.red.flipped {
+  background-color: red;
+  }
+
+#game div.blue.matched {
+  background-color: blue;
+  }
+#game div.green.matched {
+  background-color: green;
+  }
+#game div.orange.matched {
+  background-color: orange;
+  }
+#game div.purple.matched {
+  background-color: purple;
+  }
+#game div.red.matched {
+  background-color: red;
+  }
